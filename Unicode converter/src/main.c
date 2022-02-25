@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 #include "unicode.h"
-#include <wchar.h>
 #include "testUnicodeHelper.h"
 
 int main(int argc, char* argv[])
